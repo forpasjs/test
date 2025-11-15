@@ -1,4 +1,3 @@
-// imageChecker.js - Rasm tekshiruv skripti
 (function() {
     // Style qo'shish
     const style = document.createElement('style');
@@ -127,3 +126,4 @@
 
     console.log('Rasm tekshiruv skripti muvaffaqiyatli yuklandi!');
 })();
+
